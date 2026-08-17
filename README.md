@@ -98,7 +98,7 @@ Power BI Desktop (to view/edit the .pbix dashboard)
 Setup
 bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/bhaktibhanushali-01/Customer_Behavior_Analysis.git>
 cd Customer-Shopping-Behavior-Analysis
 
 # Install Python dependencies
